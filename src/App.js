@@ -44,7 +44,7 @@ function App() {
           <button type="submit">Find the closest number to 0</button>
         </form>
         <p>
-          V2 The Closest number to Zero is : <span className="Yellow-bordered-background">{closestNumToZero}</span>
+          The Closest number to Zero is : <span className="Yellow-bordered-background">{closestNumToZero}</span>
         </p>
     </div>
   );
