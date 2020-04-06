@@ -1,4 +1,4 @@
-<a href="https://imgur.com/a/Gbyqvwk"><img src="https://imgur.com/a/Gbyqvwk" title="source: imgur.com" /></a>
+<a href="https://imgur.com/a/Gbyqvwk"><img src="https://imgur.com/a/Gbyqvwk.png" title="source: imgur.com" /></a>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
